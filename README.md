@@ -2,7 +2,7 @@
 # Hospital Management
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Shubham%20Khandge-red)
 ---
-## screenshots
+## Screenshots:
 ### Homepage
 ![homepage snap](https://github.com/Shubhamkhandge/HospitalManagementSystem/blob/main/static/screenshots/homepage.png)
 ### Admin Dashboard
